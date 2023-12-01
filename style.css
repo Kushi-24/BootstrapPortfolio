@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Encode+Sans&family=Fira+Code&family=Fuggles&family=Gabarito&family=Montserrat:ital,wght@1,600&family=Mooli&family=Pixelify+Sans:wght@500&family=Poppins:wght@300&family=Titillium+Web&family=Ubuntu:ital,wght@1,500&display=swap');
+.nav-logo {
+    height: 80px;
+}
+.web-body{
+   
+    background-image:url('https://res.cloudinary.com/djqe0dx5p/image/upload/v1701241761/backbootimg_i6tuid.jpg');
+}
+.item-nav {
+    color: white;
+    font-family:'Poppins', sans-serif;;
+
+}
+.item-nav:hover {
+    color: rgb(32, 172, 32);
+}
+.anchor {
+    margin-left:auto;
+}
+.body-section {
+    height: 85vh;
+   
+}
+.box-left{
+    color: white;
+    
+    height: 250px;
+    font-family: 'Encode Sans', sans-serif;
+    text-align: right;
+    padding-left: 200px;
+}
+.box-right {
+    height: 250px;
+    padding-right: 150px;
+}
+.home-para {
+    font-family: 'Gabarito', cursive;
+    font-size: 15px;
+    
+}
+.skills-h1 {
+    color: white;
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+}
+.skills-p {
+    color: white;
+    font-family: 'Gabarito', cursive;
+    font-size: 15px;
+}
+.skills-h2 {
+    color:green;
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+}
+.list-p {
+    color: white;
+    font-family: 'Encode Sans', sans-serif;
+    font-size: 15px;
+    padding-left: 250px;
+    
+}
+.contact-p {
+    color: rgb(57, 180, 57);
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 25px;
+}
+.contact-info {
+    color: white;
+    font-family: 'Encode Sans', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.icon-img {
+    height: 50px;
+    padding: 10px;
+}
+.social-icons {
+    text-align: center;
+}
+
+
